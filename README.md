@@ -1,0 +1,2 @@
+# hng-task-one
+OUTLIER DETECTION IN ELECTION 
