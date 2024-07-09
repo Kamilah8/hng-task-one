@@ -1,4 +1,4 @@
-# OUTLIER DETECTION IN ELECTION REPORT 
+# OUTLIER DETECTION ELECTION REPORT 
  
 ## Case Study
 Ensuring Election Integrity in the recently concluded election. The Independent National Electoral Commission(INEC) has faced multiple legal challenges concerning the integrity and accuracy of the election results. Allegations of vote manipulation and irregularities have been widespread, prompting a thorough investigation into the matter.
